@@ -1,0 +1,16 @@
+{
+  "name": "tokyo-night-cv",
+  "version": "1.0.0",
+  "description": "Interactive Tokyo night portfolio with CV display",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
